@@ -9,7 +9,12 @@ ANGGOTA         :
 
 COMMAND : 
 rmdir 
+
 factor ✓
+
 cal ✓ 
+
 simple-vim 
+
 mv ✓
+
