@@ -8,6 +8,7 @@ ANGGOTA         :
 
 
 COMMAND : 
+
 rmdir 
 
 factor ✓
